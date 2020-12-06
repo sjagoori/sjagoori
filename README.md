@@ -54,8 +54,8 @@ I'm Shabier, a 23 year old web developer from the Netherlands.
 />
 
 ![](https://github-readme-stats.vercel.app/api?username=sjagoori&show_icons=true)\
-![](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sjagoori&layout=compact) 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=sjagoori.sjagoori)
+![](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sjagoori&layout=compact)\ 
+![](https://visitor-badge.laobi.icu/badge?page_id=sjagoori.sjagoori)
 <!--START_SECTION:waka-->
 
 
