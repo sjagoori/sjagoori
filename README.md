@@ -44,17 +44,8 @@
   src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"
 />
 
-### My Github Data
-
-> 🏆 690 Contributions in the Year 2020
- > 
-> 💼 Open for hire
- > 
-> 📜 16 Public Repositories 
- > 
-> 🔑 4 Private Repositories  
-
 <!--START_SECTION:waka-->
+
 
 <!--END_SECTION:waka-->
 
