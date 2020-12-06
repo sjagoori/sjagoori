@@ -1,3 +1,12 @@
+### Heyo! 👋
+I'm Shabier, a 23 year old web developer from the Netherlands.
+- 🔭 I’m currently working:
+  - Portfolio: writing it in `Next.js`, and it needs a refresh!
+  - PokeAPI: an experimental `Next.js` project [link](https://pokeapi-git-master.sjagoori.vercel.app/)
+  - Music-Player: a music player written in `React` that streams yt-video's audio.
+  - Socialsbot: a social media bot for engangement and scheduled posts written in `Go`.
+  - Krakenbot: a crypto trading bot written in `Go` that monitors, and (automatically) sets orders.
+
 ### Skills
 <img 
   src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" 
