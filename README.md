@@ -1,6 +1,7 @@
 ### Heyo! 👋
 I'm Shabier, a 23 year old web developer from the Netherlands.
-- 🔭 I’m currently working:
+
+🔭 I’m currently working:
   - Portfolio: rewriting it in `Next.js` because it needed a refresh!
   - PokeAPI: an experimental `Next.js` project ([link](https://pokeapi-git-master.sjagoori.vercel.app/)).
   - Music-Player: a music player written in `React` that streams yt-video's audio.
