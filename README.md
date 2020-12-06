@@ -53,6 +53,9 @@ I'm Shabier, a 23 year old web developer from the Netherlands.
   src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"
 />
 
+![](https://github-readme-stats.vercel.app/api?username=sjagoori&show_icons=true)\
+![](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sjagoori&layout=compact) 
+
 <!--START_SECTION:waka-->
 
 
