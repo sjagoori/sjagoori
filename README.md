@@ -8,6 +8,12 @@ I'm Shabier, a 23 year old web developer from the Netherlands.
   - Socialsbot: a social media bot for engangement and scheduled posts written in `Go`.
   - Krakenbot: a crypto trading bot written in `Go` that monitors, and (automatically) sets orders.
 
+### Cool projects
+* [PokeAPI](https://pokeapi-git-master.sjagoori.vercel.app/): an online pokemon finder.
+* [Frontend-apps](https://frontend-apps.vercel.app/): a visualization regarding parking spaces for disabled.
+* [Dating-app](https://github.com/sjagoori/dating-app): an online dating platform for programmers
+* [Bol-deals](https://bol-com-git-master.sjagoori.vercel.app/): [WIP] a bol.com discount finder
+
 ### Skills
 <img 
   src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" 
@@ -32,6 +38,9 @@ I'm Shabier, a 23 year old web developer from the Netherlands.
 />
 <img 
   src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=react&logoColor=FFFFFF" 
+/>
+<img 
+  src="https://img.shields.io/badge/D3.js-FD9038?style=for-the-badge&logo=D3&logoColor=FFFFFF" 
 />
 <img 
   src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" 
