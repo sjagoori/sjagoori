@@ -43,6 +43,9 @@ I'm Shabier, a 23 year old web developer from the Netherlands.
   src="https://img.shields.io/badge/D3.js-FD9038?style=for-the-badge&logo=D3&logoColor=FFFFFF" 
 />
 <img 
+  src="https://img.shields.io/badge/MongoDB-328C3B?style=for-the-badge&logo=D3&logoColor=FFFFFF" 
+/>
+<img 
   src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" 
 />
 <img 
