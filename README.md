@@ -5,6 +5,7 @@ I'm Shabier, a 23 year old web developer from the Netherlands.
   - Portfolio: rewriting it in `Next.js` because it needed a refresh!
   - PokeAPI: an experimental `Next.js` project ([link](https://pokeapi-git-master.sjagoori.vercel.app/)).
   - Bol-deals: a frontend that finds deals on [bol.com](https://bol.com), written in `Next.js` and a scarper in `NodeJS` & `Go`
+  - Bol-scraper: a backend API that scrapes and provides data, written with Node in `Javascript`
   - Socialsbot: a social media bot for engangement and scheduled posts written in `Go`.
   - Krakenbot: a crypto trading bot written in `Go` that monitors, and (automatically) sets orders.
 
