@@ -15,6 +15,7 @@ I'm Shabier, a 23 year old web developer from the Netherlands.
 * [Frontend-apps](https://frontend-apps.vercel.app/): a visualization regarding parking spaces for disabled.
 * [Dating-app](https://github.com/sjagoori/dating-app): an online dating platform for programmers
 * [Bol-deals](https://bol-com-git-master.sjagoori.vercel.app/): a bol.com discount finder
+* [Cache-this](https://www.npmjs.com/package/cache-this): a node cli tool to cache api responses (for performace improvements and rate-limit prevention)
 
 ### Skills
 <img 
@@ -66,6 +67,9 @@ I'm Shabier, a 23 year old web developer from the Netherlands.
 />
 <img
   src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"
+/>
+<img
+  src="https://img.shields.io/badge/NPM-620004?style=for-the-badge&logo=NPM&logoColor=white"
 />
 
 ### Fun stats
