@@ -8,7 +8,6 @@ I'm Shabier, a 23 year old web developer from the Netherlands.
   - Bol-deals: a frontend that finds deals on [bol.com](https://bol.com), written in `Next.js` and a scarper in `NodeJS` & `Go`
   - Bol-scraper: a backend API that scrapes and provides data, written with Node in `Javascript`
   - Socialsbot: a social media bot for engangement and scheduled posts written in `Go`.
-  - Krakenbot: a crypto trading bot written in `Go` that monitors, and (automatically) sets orders.
 
 ### Cool projects
 * [PokeAPI](https://pokeapi-git-master.sjagoori.vercel.app/): an online pokemon finder.
@@ -16,6 +15,8 @@ I'm Shabier, a 23 year old web developer from the Netherlands.
 * [Dating-app](https://github.com/sjagoori/dating-app): an online dating platform for programmers
 * [Bol-deals](https://bol-com-git-master.sjagoori.vercel.app/): a bol.com discount finder
 * [Cache-this](https://www.npmjs.com/package/cache-this): a node cli tool to cache api responses (for performace improvements and rate-limit prevention)
+* [Krakenbot](https://github.com/sjagoori/krakenbot): a telegram bot that fetches prices for cryptocurrency
+* [DeHetBot](https://github.com/sjagoori/dehetbot): a telegram bot that helps you find articles to dutch words.
 
 ### Skills
 <img 
