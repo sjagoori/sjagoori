@@ -5,9 +5,8 @@ I'm Shabier, a 23 year old web developer from the Netherlands.
   - Portfolio: rewriting it in `Next.js` because it needed a refresh!
   - PokeAPI: an experimental `Next.js` project ([link](https://pokeapi-git-master.sjagoori.vercel.app/)).
   - Frontend-setup: a template repo with components written with `Next.js` over at [frontend-setup](https://github.com/sjagoori/frontend-setup)
-  - Bol-deals: a frontend that finds deals on [bol.com](https://bol.com), written in `Next.js` and a scarper in `NodeJS` & `Go`
-  - Bol-scraper: a backend API that scrapes and provides data, written with Node in `Javascript`
   - Socialsbot: a social media bot for engangement and scheduled posts written in `Go`.
+  - Biopic: a linkshortner and link bio using `Firebase`, written in `Next.js` over at [Biopic](https://github.com/sjagoori/biopic)
 
 ### Cool projects
 * [PokeAPI](https://pokeapi-git-master.sjagoori.vercel.app/): an online pokemon finder.
