@@ -12,7 +12,7 @@ I'm Shabier, a 24 year old web developer from the Netherlands. I'm a developer t
 * [TogetherTube](https://github.com/sjagoori/TogetherTube): a YouTube client with real-time video playback and chat using Socket.io.
 * [Read-it](https://github.com/sjagoori/Read-it): a PWA, offline available, performance first, reddit reader.
 * [Enquetter](https://github.com/sjagoori/browser-technologies-2021): a progressively enhanced enquette.
-* [Nerdr,Match()](https://github.com/sjagoori/dating-app): an online dating platform for programmers.
+* [Nerdr.Match()](https://github.com/sjagoori/dating-app): an online dating platform for programmers.
 * [Mad-chatter](https://github.com/sjagoori/mad-chatter): a meme chatroom.
 * [Bol-deals](https://bol-com-git-master.sjagoori.vercel.app/): a bol.com discount finder.
 
