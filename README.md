@@ -1,30 +1,6 @@
 ### Heyo! 👋
 I'm Shabier, a 24 year old web developer from the Netherlands. I'm a developer that loves to design and realize designs in code! My ambitions are to make impactful digital products that help to make a better tomorrow. My passion lies in helping others and improving their lives with digital solutions. You can find my resume over at [read.cv/shabier](https://read.cv/shabier)
 
-### Cool stuff
-**Front-end web projects**
-* [PokeAPI](https://pokeapi-git-master.sjagoori.vercel.app/): an online pokemon finder.
-* [Parking in the Netherlands](https://github.com/sjagoori/Parking-in-the-Netherlands): A data visualization project about accessible parking in the Netherlands for the publication company De Volkskrant.
-* [Coination](https://github.com/sjagoori/coination): a single-page application displaying crypto by marketcap and prices.
-* [Project NO₂ x Corona](https://github.com/sjagoori/KNMI): a visualization of carbon emissions in Europe before- and during covid-19.
-
-**Full-stack web projects**
-* [TogetherTube](https://github.com/sjagoori/TogetherTube): a YouTube client with real-time video playback and chat using Socket.io.
-* [Read-it](https://github.com/sjagoori/Read-it): a PWA, offline available, performance first, reddit reader.
-* [Enquetter](https://github.com/sjagoori/browser-technologies-2021): a progressively enhanced enquette.
-* [Nerdr.Match()](https://github.com/sjagoori/dating-app): an online dating platform for programmers.
-* [Mad-chatter](https://github.com/sjagoori/mad-chatter): a meme chatroom.
-* [Bol-deals](https://bol-com-git-master.sjagoori.vercel.app/): a bol.com discount finder.
-
-**Tools**
-* [Cache-this](https://www.npmjs.com/package/cache-this): a node cli tool to cache api responses (for performace improvements and rate-limit prevention).
-* [Front-end setup](https://github.com/sjagoori/frontend-setup): a continiously growing template repo.
-
-**Automatization**
-* [Krakenbot](https://github.com/sjagoori/krakenbot): a telegram bot that fetches prices for cryptocurrency.
-* [DeHetBot](https://github.com/sjagoori/dehetbot): a telegram bot that helps you find articles to dutch words.
-* [Archillect-mirror](https://github.com/sjagoori/archillect-mirror): an Archillect scraper and instagram-bot
-
 ### Skills
 <img 
   src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" 
@@ -65,6 +41,31 @@ I'm Shabier, a 24 year old web developer from the Netherlands. I'm a developer t
 <img 
   src="https://img.shields.io/badge/Golang-1a1a1a?style=for-the-badge&logo=go&logoColor=00ACD7" 
 />
+
+
+### Cool stuff
+**Front-end web projects**
+* [PokeAPI](https://pokeapi-git-master.sjagoori.vercel.app/): an online pokemon finder.
+* [Parking in the Netherlands](https://github.com/sjagoori/Parking-in-the-Netherlands): A data visualization project about accessible parking in the Netherlands for the publication company De Volkskrant.
+* [Coination](https://github.com/sjagoori/coination): a single-page application displaying crypto by marketcap and prices.
+* [Project NO₂ x Corona](https://github.com/sjagoori/KNMI): a visualization of carbon emissions in Europe before- and during covid-19.
+
+**Full-stack web projects**
+* [TogetherTube](https://github.com/sjagoori/TogetherTube): a YouTube client with real-time video playback and chat using Socket.io.
+* [Read-it](https://github.com/sjagoori/Read-it): a PWA, offline available, performance first, reddit reader.
+* [Enquetter](https://github.com/sjagoori/browser-technologies-2021): a progressively enhanced enquette.
+* [Nerdr.Match()](https://github.com/sjagoori/dating-app): an online dating platform for programmers.
+* [Mad-chatter](https://github.com/sjagoori/mad-chatter): a meme chatroom.
+* [Bol-deals](https://bol-com-git-master.sjagoori.vercel.app/): a bol.com discount finder.
+
+**Tools**
+* [Cache-this](https://www.npmjs.com/package/cache-this): a node cli tool to cache api responses (for performace improvements and rate-limit prevention).
+* [Front-end setup](https://github.com/sjagoori/frontend-setup): a continiously growing template repo.
+
+**Automatization**
+* [Krakenbot](https://github.com/sjagoori/krakenbot): a telegram bot that fetches prices for cryptocurrency.
+* [DeHetBot](https://github.com/sjagoori/dehetbot): a telegram bot that helps you find articles to dutch words.
+* [Archillect-mirror](https://github.com/sjagoori/archillect-mirror): an Archillect scraper and instagram-bot
 
 ### Tools
 <img 
