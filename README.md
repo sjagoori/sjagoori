@@ -1,5 +1,5 @@
 ### Heyo! 👋
-I'm Shabier, a 24 year old web developer from the Netherlands. I'm a developer that loves to design and realize designs in code! My ambitions are to make impactful digital products that help to make a better tomorrow. My passion lies in helping others and improving their lives with digital solutions. You can find my resume over at [read.cv/shabier](https://read.cv/shabier) and my portfolio site, which is this page but graphical😆, over at [shabier.vercel.app](https://shabier.vercel.app/)
+I'm Shabier, a 24 year old web developer from the Netherlands. I'm a developer that loves to design and realize designs in code! My ambitions are to make impactful digital products that help to make a better tomorrow. My passion lies in helping others and improving their lives with digital solutions. You can find my resume over at [read.cv/shabier](https://read.cv/shabier) and my portfolio site, which is this page but graphical 😆 , over at [shabier.vercel.app](https://shabier.vercel.app/)
 
 ### Skills
 <img 
