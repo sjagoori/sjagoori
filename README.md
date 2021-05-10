@@ -12,6 +12,9 @@ I'm Shabier, a 24 year old web developer from the Netherlands. I'm a developer t
   src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" 
 />
 <img 
+  src="https://img.shields.io/badge/Typescript-272727?style=for-the-badge&logo=typescript&logoColor=259DFF" 
+/>
+<img 
   src="https://img.shields.io/badge/Node.js-333333?style=for-the-badge&logo=node.js&logoColor=76AD64" 
 />
 <img 
