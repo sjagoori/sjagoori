@@ -51,6 +51,7 @@ I'm Shabier, a 24 year old web developer from the Netherlands. I'm a developer t
 * [PokeAPI](https://pokeapi-git-master.sjagoori.vercel.app/): an online pokemon finder.
 * [Parking in the Netherlands](https://github.com/sjagoori/Parking-in-the-Netherlands): A data visualization project about accessible parking in the Netherlands for the publication company De Volkskrant.
 * [Coination](https://github.com/sjagoori/coination): a single-page application displaying crypto by marketcap and prices.
+* [Musicle](https://github.com/sjagoori/musicle): an accessible music player for users suffering with muscular- and neuronal diseases.
 * [Project NO₂ x Corona](https://github.com/sjagoori/KNMI): a visualization of carbon emissions in Europe before- and during covid-19.
 
 **Full-stack web projects**
@@ -88,7 +89,7 @@ I'm Shabier, a 24 year old web developer from the Netherlands. I'm a developer t
 />
 
 ### I’m currently working on:
-* [Musicle](https://github.com/sjagoori/musicle): an accessible music player for users suffering with muscular- and neuronal diseases
+* [Bloom](https://github.com/sjagoori/bloom): a social media platform for recovering cancer patients.
 * Biopic: a linkshortner and link bio using `Firebase`, written in `Next.js`
 
 ### Fun stats
