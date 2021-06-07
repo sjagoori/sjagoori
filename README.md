@@ -45,6 +45,14 @@ I'm Shabier, a 24 year old web developer from the Netherlands. I'm a developer t
   src="https://img.shields.io/badge/Golang-1a1a1a?style=for-the-badge&logo=go&logoColor=00ACD7" 
 />
 
+### Publications
+Publications are posted on Medium: [link to profile](https://shabier.medium.com)
+
+* [_Draft_] Web development: is the job market a meritocracy?
+* [_Draft_] Web development: 0kb JavaScript 
+* [_<1k reads_] Web development: a Node CRUD web application - [read the article](https://shabier.medium.com/web-development-crud-web-application-76f3b7ce127b)
+* [_2k reads_] Design trends: Neumorphism. Part 2 - [read the article](https://shabier.medium.com/design-trends-neumorphic-design-part-2-8e34868483b)
+* [_22k reads_] Design trends: Neumorphism. Part 1 - [read the article](https://shabier.medium.com/design-trends-neumorphism-59a9ba9d9284)
 
 ### Cool stuff
 **Front-end web projects**
