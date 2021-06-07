@@ -48,7 +48,7 @@ I'm Shabier, a 24 year old web developer from the Netherlands. I'm a developer t
 
 ### Cool stuff
 **Front-end web projects**
-* [Hotspot Lookup](https://github.com/sjagoori/hotspot-lookup): a PWA dashboard for Helium Hotspot Owners.
+* 🔥 [Hotspot Lookup](https://github.com/sjagoori/hotspot-lookup): a PWA dashboard for Helium Hotspot Owners.
 * [PokeAPI](https://pokeapi-git-master.sjagoori.vercel.app/): an online pokemon finder.
 * [Parking in the Netherlands](https://github.com/sjagoori/Parking-in-the-Netherlands): A data visualization project about accessible parking in the Netherlands for the publication company De Volkskrant.
 * [Coination](https://github.com/sjagoori/coination): a single-page application displaying crypto by marketcap and prices.
