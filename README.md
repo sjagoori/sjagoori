@@ -48,8 +48,8 @@ I'm Shabier, a 24 year old web developer from the Netherlands. I'm a developer t
 ### Publications
 Publications are posted on Medium: [link to profile](https://shabier.medium.com)
 
-* [_Draft_] Web development: is the job market a meritocracy?
 * [_Draft_] Web development: the principle of 0kb JavaScript 
+* [<1k reads] Web development: is the job market a meritocracy or an exclusive network? - [read the article](https://shabier.medium.com/web-development-is-the-job-market-a-meritocracy-or-an-exclusive-network-a0d1c1ee3e2b)
 * [_<1k reads_] Web development: a Node CRUD web application - [read the article](https://shabier.medium.com/web-development-crud-web-application-76f3b7ce127b)
 * [_2k reads_] Design trends: Neumorphism. Part 2 - [read the article](https://shabier.medium.com/design-trends-neumorphic-design-part-2-8e34868483b)
 * [_22k reads_] Design trends: Neumorphism. Part 1 - [read the article](https://shabier.medium.com/design-trends-neumorphism-59a9ba9d9284)
